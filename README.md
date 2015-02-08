@@ -1,0 +1,2 @@
+# spigot_javadoc_jp
+SpigotのJavadocを日本語化
